@@ -18,6 +18,7 @@ Utilizei o Claude para criar o ebook pedindo que ele utiliza-se a linguagem que 
 ## 🚀 Resultados
 Com satisfação no resultado após edição de algumas páginas foi possivel finalizar o projeto com louvor.
 
-Ebook LabDIONAttyOrNot
+[Ebook LabDIONAttyOrNot](https://github.com/LeoPretto/lab-natty-or-not/blob/patch-1/LabDIONattyOrNot_Ebook.pdf)
+
 
 
